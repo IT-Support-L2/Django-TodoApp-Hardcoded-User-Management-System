@@ -1,5 +1,7 @@
 # Django-TODO-v3
 
+Hardcoded User Registration System:
+
 - User registration with verification link
 - Password reset with verification link
 - Change password @login
